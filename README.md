@@ -5,7 +5,12 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-green)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-20.10.7-blue)
+![DeepLearning](https://img.shields.io/badge/DeepLearning-TensorFlow%2FPyTorch-red)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-Scikit--learn-yellow)
 <!---
 mxcoogi/mxcoogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
