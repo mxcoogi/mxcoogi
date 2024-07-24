@@ -9,12 +9,12 @@
 #### skills
 ![Python](https://img.shields.io/badge/Python-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
-![Flask](https://img.shields.io/badge/Flask-black)  
+![Flask](https://img.shields.io/badge/Flask-lightgrey)  
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Docker](https://img.shields.io/badge/Docker-blue)  
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-Scikit--learn-yellow)
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-TensorFlow-red)
-![MachineLearning](https://img.shields.io/badge/MachineLearning-Scikit--learn-yellow)  
+![DeepLearning](https://img.shields.io/badge/DeepLearning-PyTorch-lightyellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-olive)
 ![MYSQL](https://img.shields.io/badge/MYSQL-skyblue)
 
