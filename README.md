@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey)  
+![Flask](https://img.shields.io/badge/Jupyter-orange)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Docker](https://img.shields.io/badge/Docker-blue)  
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-Scikit--learn-yellow)
