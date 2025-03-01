@@ -20,7 +20,7 @@
 ![MYSQL](https://img.shields.io/badge/MYSQL-skyblue)
 
 #### algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnrwk8303)](https://solved.ac/rnrwk8303/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mxcoogi)](https://solved.ac/rnrwk8303/)
 <!---
 mxcoogi/mxcoogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
