@@ -18,6 +18,9 @@
 ![DeepLearning](https://img.shields.io/badge/DeepLearning-PyTorch-lightyellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-olive)
 ![MYSQL](https://img.shields.io/badge/MYSQL-skyblue)
+### status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxcoogi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxcoogi)](https://github.com/anuraghazra/github-readme-stats)
 
 #### algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mxcoogi)](https://solved.ac/rnrwk8303/)
