@@ -2,7 +2,6 @@
 
 ###
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mxcoogi)](https://solved.ac/mxcoogi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxcoogi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/173623309?v=4"  />
