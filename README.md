@@ -1,8 +1,6 @@
 <h2 align="left">안녕하세요👋! 열심히 하구 있습니다...</h2>
 
 ###
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=mxcoogi)](https://solved.ac/mxcoogi)
-###
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/173623309?v=4"  />
 
 ###
